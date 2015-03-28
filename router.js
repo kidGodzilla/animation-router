@@ -142,8 +142,6 @@ var router = (function () {
         set: set
     };
 
-    obj = $.extend({}, _, obj);
-
     return obj;
 })();
 
